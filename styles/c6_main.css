@@ -21,7 +21,6 @@ body {
 section{
 	width:525px;
 	float:right;
-
 }
 a:focus, a:hover {
 	font-style: italic;
@@ -114,14 +113,14 @@ aside{
 	width:215px;
 	float:right;
 	padding-left:20px;
-	padding-right:20px;
-}
-aside h3 {
+	padding-right:20px;}
+/*aside h3 {
 	font-size: 105%;
 	padding-bottom: .25em;
 	width:215px;
 	float:right;
 }
+*/
 aside img {
 	padding-bottom: 1em;
 }
